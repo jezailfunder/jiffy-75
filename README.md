@@ -3,5 +3,5 @@ Official resources for the JIFFY 75 split ergonomic keyboard, including document
 
 ## details
 
-* JZFHub Config software can be found at [jzfhub.com](https://jzfhub.com)
+* JZFHub config software can be found at [jzfhub.com](https://jzfhub.com)
 * [Jiffy75说明书v1.1_英文(1).pdf](Jiffy75说明书v1.1_英文(1).pdf) is the English version of the manual
